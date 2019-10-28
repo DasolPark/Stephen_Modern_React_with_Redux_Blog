@@ -1,3 +1,3 @@
 export default () => {
-  return 123;
+  return 123; // 'strdasf' or [] or {} or null besides 'undefined'
 };
